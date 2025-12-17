@@ -1,2 +1,2 @@
-# JavaSriptBasic
+# JavaScriptBasic
 Learning Basics of JavaScript
